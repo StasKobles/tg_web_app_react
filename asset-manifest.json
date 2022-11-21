@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tg_web_app_react.github.io/static/css/main.4ec5d5e4.css",
+    "main.js": "/tg_web_app_react.github.io/static/js/main.e267f910.js",
+    "static/media/japanese-food.png": "/tg_web_app_react.github.io/static/media/japanese-food.ab65ef3543b57cec49c7.png",
+    "static/media/spaghetti.png": "/tg_web_app_react.github.io/static/media/spaghetti.fccf0c20fce2ed83fc44.png",
+    "static/media/sandwich.png": "/tg_web_app_react.github.io/static/media/sandwich.b14e351a0b617e7eaec0.png",
+    "static/media/pancake.png": "/tg_web_app_react.github.io/static/media/pancake.c1436589e3ef2e5bb2b0.png",
+    "static/media/hot-dog.png": "/tg_web_app_react.github.io/static/media/hot-dog.c16de23a97e3fd602fef.png",
+    "static/media/burger.png": "/tg_web_app_react.github.io/static/media/burger.de1f69d430730cd25932.png",
+    "static/media/taco.png": "/tg_web_app_react.github.io/static/media/taco.f1292ad9afa67adfe3d3.png",
+    "static/media/french-fries.png": "/tg_web_app_react.github.io/static/media/french-fries.08a5df9a988b16e2d6c3.png",
+    "index.html": "/tg_web_app_react.github.io/index.html",
+    "main.4ec5d5e4.css.map": "/tg_web_app_react.github.io/static/css/main.4ec5d5e4.css.map",
+    "main.e267f910.js.map": "/tg_web_app_react.github.io/static/js/main.e267f910.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ec5d5e4.css",
+    "static/js/main.e267f910.js"
+  ]
+}
